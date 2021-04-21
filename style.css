@@ -1,0 +1,192 @@
+body
+{
+    margin: 0;
+    font-family: 'Courier Prime', monospace;
+    background-color: whitesmoke;
+}
+
+#logo
+{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 70px;
+    width: 80%;
+    min-height: 250px;
+    text-align: center;
+    font-size: 40px;
+}
+h1
+{
+    font-size: 9vw;
+    margin: 0;
+}
+
+
+a
+{
+    text-decoration: none;
+    font-size: 9vw;
+    color: black;
+}
+
+a:visited
+{
+    color: black;
+}
+
+#logo:p
+{
+    background-color: black;
+    color: whitesmoke;
+    min-height: 35px;
+}
+
+#container
+{
+    width: 80%;
+    height: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: whitesmoke;
+    margin-bottom: 30px;
+}
+
+.wrapper
+{
+    width: 260px;
+    height: 380px;
+    background-color: whitesmoke;;
+    margin: 20px;
+    float: left;
+}
+
+#button1
+{
+    width: 200px;
+    height: 50px;
+    padding-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+    background-color: whitesmoke;
+    text-align: center;
+    cursor: pointer;
+    border-style: solid;
+}
+
+#button1:hover
+{
+    background-color: black;
+    color: whitesmoke;
+}
+
+#button2
+{
+    width: 200px;
+    height: 50px;
+    padding-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+    background-color: whitesmoke;
+    text-align: center;
+    cursor: pointer;
+    border-style: solid;
+}
+
+#button2:hover
+{
+    background-color: black;
+    color: whitesmoke;
+}
+
+
+#button3
+{
+    width: 200px;
+    height: 50px;
+    padding-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+    background-color: whitesmoke;
+    text-align: center;
+    cursor: pointer;
+    border-style: solid;
+}
+
+#button3:hover
+{
+    background-color: black;
+    color: whitesmoke;
+}
+
+
+#button4
+{
+    width: 200px;
+    height: 50px;
+    padding-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+    background-color: whitesmoke;
+    text-align: center;
+    cursor: pointer;
+    border-style: solid;
+}
+
+#button4:hover
+{
+    background-color: black;
+    color: whitesmoke;
+}
+
+
+#item1
+{
+    width: 200px;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    background-color: whitesmoke;
+    text-align: center;
+    font-size: 30px;
+}
+
+#item2
+{
+    width: 200px;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    background-color: whitesmoke;
+    text-align: center;
+    font-size: 30px;
+}
+
+#item3
+{
+    width: 200px;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    background-color: whitesmoke;
+    text-align: center;
+    font-size: 30px;
+}
+
+#item4
+{
+    width: 200px;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    background-color: whitesmoke;
+    text-align: center;
+    font-size: 30px;
+}
