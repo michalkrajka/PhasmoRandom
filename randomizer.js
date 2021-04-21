@@ -2,7 +2,7 @@
 
 function random1()
 {
-    var liczba = Math.floor(Math.random()*17)+1;
+    let liczba = Math.floor(Math.random()*17)+1;
 
     if (liczba==1)liczba="EMF Reader";
    else if (liczba==2)liczba="Ghost Writing Book";
@@ -28,7 +28,7 @@ function random1()
 
 function random2()
 {
-    var liczba = Math.floor(Math.random()*17)+1;
+    let liczba = Math.floor(Math.random()*17)+1;
 
     if (liczba==1)liczba="EMF Reader";
    else if (liczba==2)liczba="Ghost Writing Book";
@@ -54,7 +54,7 @@ function random2()
 
 function random3()
 {
-    var liczba = Math.floor(Math.random()*17)+1;
+    let liczba = Math.floor(Math.random()*17)+1;
 
     if (liczba==1)liczba="EMF Reader";
    else if (liczba==2)liczba="Ghost Writing Book";
@@ -80,7 +80,7 @@ function random3()
 
 function random4()
 {
-    var liczba = Math.floor(Math.random()*4)+1;
+    let liczba = Math.floor(Math.random()*4)+1;
 
     if (liczba==1)liczba="Candle";
    else if (liczba==2)liczba="Flashlight";
